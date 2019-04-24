@@ -1,0 +1,2 @@
+AB_JOLOKIA_OFF=true
+JAVA_MAIN_CLASS=org.acme.App
